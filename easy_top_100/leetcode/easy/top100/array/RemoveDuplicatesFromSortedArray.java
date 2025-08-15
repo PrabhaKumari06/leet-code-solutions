@@ -1,4 +1,4 @@
-package leetcode.easy.top100.array;
+package leetcode.easy.top100.array.leetcode.easy.top100.array;
 
 public class RemoveDuplicatesFromSortedArray {
     public static void main(String[] args) {
