@@ -1,4 +1,4 @@
-package leetcode.easy.top100.array.leetcode.easy.top100.array;
+package leetcode.easy.top100;
 
 public class RemoveDuplicatesFromSortedArray {
     public static void main(String[] args) {
@@ -6,15 +6,14 @@ public class RemoveDuplicatesFromSortedArray {
         System.out.println(" count of unique no : " + removeDuplicates(input));
 
     }
-
     public static int removeDuplicates(int[] nums) {
-        int index = -1;
+        int index = 0;
         for (int i = 0; i < nums.length - 1; i++) {
             if (nums[i] != nums[i + 1])
-                nums[++index] = nums[i];
+                nums[index++] = nums[i];
         }
-        if (nums[index] != nums[nums.length - 1])
-            nums[++index] = nums[nums.length - 1];
+        if (index == 0 || nums[index - 1] != nums[nums.length - 1])
+            nums[index++] = nums[nums.length - 1];
 
         return index;
     }
