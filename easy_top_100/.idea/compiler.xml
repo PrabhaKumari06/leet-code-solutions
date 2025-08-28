@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="strings" />
         <module name="array" />
+        <module name="linkedlist" />
       </profile>
     </annotationProcessing>
   </component>
