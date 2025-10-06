@@ -23,10 +23,22 @@ This repository contains my solutions to various **LeetCode Top Interview Questi
 10. [LeetCode 36 - Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 
 ### 🔹 String
-*(Coming soon)*
+1. [LeetCode 344 – Reverse String](https://leetcode.com/problems/reverse-string/description/)
+2. [LeetCode 7 – Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)
+3. [LeetCode 387 – First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)
+4. [LeetCode 242 – Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
+5. [LeetCode 125 – Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
+6. [LeetCode 8 – String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)
+7. [LeetCode  – Implement strStr()]()
+8. [LeetCode 14 – Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
 
 ### 🔹 Linked List
-*(Coming soon)*
+1. [LeetCode 237 – Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)
+2. [LeetCode 19 – Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
+3. [LeetCode 206 – Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
+4. [LeetCode 21 – Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
+5. [LeetCode 234 – Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)
+6. [LeetCode 141 – Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
 
 ### 🔹 Trees
 *(Coming soon)*
